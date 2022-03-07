@@ -1,0 +1,9 @@
+.row {
+    border-collapse: separate;
+    text-indent: initial;
+}  
+
+  body, h1, h2, h3, h4, h5, h6, p, ul, ol, table, tr, td, span, div {
+    font-family: Arial, Helvetica, Sans-Serif;
+    
+}  
